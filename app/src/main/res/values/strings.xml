@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MultiConvertor</string>
+
+    <string name="square">Площадь</string>
+    <string name="length">Длина</string>
+    <string name="speed">Скорость</string>
+    <string name="meter">Метр</string>
+    <string name="mile">Миля</string>
+    <string name="kilometre">Километр</string>
+    <string name="sq_kilometre">Квадратный километр</string>
+    <string name="sq_meter">Квадратный метр</string>
+    <string name="sq_centimetre">Квадратный сантиметр</string>
+    <string name="enter_value">Введите значение</string>
+    <string name="from">Из</string>
+    <string name="to">В</string>
+    <string name="currency">Валюта</string>
+    <string name="centimetre">Сантиметр</string>
+    <string name="only_digits">Вводите только цифры!</string>
+</resources>
